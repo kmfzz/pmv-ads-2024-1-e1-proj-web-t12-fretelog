@@ -10,16 +10,16 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Beatriz Gaspar
+* João Carlos Prado Silva
+* Kayky de Moraes Freitas
+* Leonardo Tadeu Siqueira Rocha
+* Lucas de Souza Santos
+* Marlon Luiz Souza de Almeida
 
 ## Orientador
 
-* Nome completo do professor
+* Pedro Felipe Alves de Oliveira
 
 # Documentação
 
