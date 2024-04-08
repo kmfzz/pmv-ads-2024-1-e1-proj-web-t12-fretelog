@@ -90,7 +90,7 @@
 | Usuário Transportador| Realizar buscas por motoristas parceiros de acordo com um determinado perfil | Otimizar o tempo de busca
 | Suporte | Acompanhar a inserção dos dados dos demais usuários | Os usuários podem ter dificuldade com ferramentas digitais. |
 | Suporte | Editar avaliações de condutores | Resolução de conflito ouerro material durante avaliação
- |
+ 
 
 
 ## Requisitos do Projeto
