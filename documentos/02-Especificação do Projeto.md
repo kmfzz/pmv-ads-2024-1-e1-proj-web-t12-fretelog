@@ -2,24 +2,76 @@
 
 ## Perfis de Usuários
 
-[Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
 
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </th>
+<th colspan="2">Suporte e moderação</th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
+<td width="600px">Perfil que realiza suporte da aplicação</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td>
+<ol>
+<li>Colaboração com usuários, auxiliando o uso da plataforma.</li>
+<li> Moderar conteúdo, caso seja encontrado algo inadequado.</li>
+<li>Mediar conflitos de ranqueamento de condutor.</li>
+</ol>
+</td>
 </tr>
 </tbody>
 </table>
 
+
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Motorista </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Motoristas que são cadastrados para sua transportadora e que prestam serviços para usuario final</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>
+<ol>
+<li>Acesso rápido e fácil.</li>
+<li> Utilizar de ambiente digital popular. </li>
+<li>Conteúdo auto explicativo.</li>
+<li>Possibilidade de enviar fotos e documentos.</li>
+<li>Possibilitar envio de notificação de conteúdo  inadequado.</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Transportadora  </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Perfil utilizado pelas empresas para cadastrarem seus motoristas</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>
+<ol>
+<li>Captação de motoristas.</li>
+<li>  Notificação de novos cadastros. </li>
+<li>Acesso a plataforma de cadastros para avaliar motoristas.</li>
+<li> Possibilitar envio de notificação de conteúdo inadequado</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Histórias de Usuários
 
