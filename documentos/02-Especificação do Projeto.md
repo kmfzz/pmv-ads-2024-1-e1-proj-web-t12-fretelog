@@ -133,11 +133,10 @@
 | RNF-06 |  O aplicativo deve ser compatível com vários navegadores, como Google Chrome, Firefox e Safari  | Alta   |
 | RNF-07 |  O aplicativo deve ser fácil de modificar e atualizar para atender as mudanças nas necessidades dos usuários e do mercado | Alta   |
 | RNF-08 |  O aplicativo deve ser robusto e livre de erros proporcionando uma experiencia de usuário consistente   | Alta   |
-| RNF-09 |  O aplicativo deve ser capaz de interagir e trocar informações com outros sistemas ou aplicativos, como sistemas de navegação GPS                    | Média   |
-| RNF-10 |  O aplicativo deve ser capaz de recuperar rapidamente de falhas ou erros, minimizando o impacto para o usuário. Isso pode incluir a capacidade de reiniciar rapidamente após uma falha ou capacidade de entrar em um modo de operação reduzida quando um erro ocorre   | Média   |
-| RNF-11 |  A aplicação deve registrar todas as ações executada por seus usuários em sistema separado de armazenamento (Log)  | Média   |
-| RNF-12 |  O aplicativo deve permitir dark mode                  | Baixa   |
-| RNF-13 |  O aplicativo deve ter sistema de tutorial para melhor uso                    | Baixa   |
+| RNF-09 |  O aplicativo deve ser capaz de recuperar rapidamente de falhas ou erros, minimizando o impacto para o usuário. Isso pode incluir a capacidade de reiniciar rapidamente após uma falha ou capacidade de entrar em um modo de operação reduzida quando um erro ocorre   | Média   |
+| RNF-10 |  A aplicação deve registrar todas as ações executada por seus usuários em sistema separado de armazenamento (Log)  | Média   |
+| RNF-11 |  O aplicativo deve permitir dark mode                  | Baixa   |
+| RNF-12 |  O aplicativo deve ter sistema de tutorial para melhor uso                    | Baixa   |
 
 
 **Prioridade: Alta / Média / Baixa. 
