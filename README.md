@@ -6,7 +6,7 @@
 
 `SEMESTRE: eixo 1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+O FreteLog visa desenvolver uma plataforma digital para o cadastro de motoristas caminhoneiros, substituindo os métodos manuais que são demorados e propensos a vazamentos de dados. Com a integração de uma solução automatizada, as transportadoras poderão realizar o cadastro de maneira mais ágil e segura, alinhada com a Lei Geral de Proteção de Dados (LGPD). A plataforma propõe funcionalidades como comparação de preços, rastreamento em tempo real, e avaliações de transportadoras, melhorando significativamente a eficiência logística e promovendo uma economia local mais sustentável.
 
 ## Integrantes
 
