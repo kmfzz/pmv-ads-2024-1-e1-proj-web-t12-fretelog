@@ -1,10 +1,10 @@
 # Fretelog
 
-`CURSO`
+`CURSO: Análise e desenvolvimento de sistemas`
 
-`DISCIPLINA`
+`DISCIPLINA: Desenvolvimento de aplicação web front-end turma 12`
 
-`SEMESTRE`
+`SEMESTRE: eixo 1`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
