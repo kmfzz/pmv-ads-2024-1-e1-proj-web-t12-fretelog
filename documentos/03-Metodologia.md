@@ -63,11 +63,11 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | http://....                            |
-| Documentos do projeto               | GitHub                             | http://....                            |
-| Projeto de Interface                | Figma                              | http://....                            |
-| Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
-| Hospedagem                          | GitHub Pages                       | http://....                            |
+| Repositório de código fonte         | GitHub                             | [http://....  ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/tree/main/codigo-fonte)|
+| Documentos do projeto               | GitHub                             | [http://....  ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/tree/main/documentos)|
+| Projeto de Interface                | Figma                              | [http://....  ](https://www.figma.com/file/ozKouv8dezTrgPAmMCe6jP/FreteLog?type=design&node-id=0-1&mode=design)|
+| Gerenciamento do Projeto            | GitHub Projects                    | [http://....     ](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/999)|
+| Hospedagem                          | GitHub Pages                       | [http://....       ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog)|
 
 
 ### Estratégia de Organização de Codificação 
