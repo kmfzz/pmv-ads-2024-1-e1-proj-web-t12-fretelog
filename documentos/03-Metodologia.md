@@ -18,10 +18,6 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 - Equipe de Desenvolvimento: Beatriz Gaspar, João Carlos Prado Silva, Kayky de Moraes Freitas, Leonardo Tadeu Siqueira Rocha, Lucas de Sousa Santos, Marlon Luiz Souza de Almeida.
 - Equipe de Design: Lucas de Sousa Santos e Leonardo Tadeu Siqueira Rocha .
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ### Processo
 
