@@ -13,7 +13,6 @@ O FreteLog visa desenvolver uma plataforma digital para o cadastro de motoristas
 * Beatriz Gaspar
 * João Carlos Prado Silva
 * Kayky de Moraes Freitas
-* Leonardo Tadeu Siqueira Rocha
 * Lucas de Souza Santos
 * Marlon Luiz Souza de Almeida
 
