@@ -1,0 +1,50 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: #EAF2F9; /* Cor de fundo definida */
+    color: #333; /* Cor do texto padrão */
+}
+
+header {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background: #EAF2F9; /* Fundo do cabeçalho */
+}
+
+.logo-container img {
+    height: 100px; /* Altura do logo */
+}
+
+.user-data {
+    flex-grow: 1; /* Faz a caixa de dados expandir para preencher o espaço */
+    margin-left: 20px; /* Espaçamento entre o logo e a caixa de dados */
+}
+
+.data-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Espalha o conteúdo ao longo da caixa */
+    background: #D9D9D9; /* Cor da box de dados */
+    padding: 10px;
+    border-radius: 5px;
+    height: 50px; /* Altura fixa para alinhar com o logo */
+}
+
+.user-info {
+    margin-right: 20px; /* Espaçamento entre as informações do usuário e o botão */
+}
+
+button.edit-button {
+    padding: 5px 10px;
+    border: none;
+    background-color: blue;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+#main-content {
+    padding: 20px;
+}
