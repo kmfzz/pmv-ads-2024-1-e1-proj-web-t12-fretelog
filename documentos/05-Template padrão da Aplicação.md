@@ -26,4 +26,4 @@ Na criação do nome da aplicação, procuramos algo que evocasse a ideia de ofe
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/165726700/723636f2-a58e-45db-9bef-c8e2ac62336a)
 
-Figura 3 - Logotipo da aplicação web frete log.
+Figura 3 - Logotipo da aplicação web frete log
