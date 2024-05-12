@@ -4,6 +4,9 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 [Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
 
+##Tela inicial
+
+
 ### Tela de login
 
 img/login.png
