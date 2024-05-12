@@ -6,6 +6,9 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 ## Tela Inicial
 
+![Tela inicial](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-fretelog/assets/164556308/6bad3635-cfbe-4869-a7b3-4c2cdad39a78)
+
+
 ### Tela de login
 
 img/login.png
