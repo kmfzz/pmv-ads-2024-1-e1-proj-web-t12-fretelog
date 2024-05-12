@@ -4,14 +4,14 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 [Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
 
-### Título da funcionalidade
+### Tela de login
 
-[Adicione imagem da funcionalidade/tela]
+img/login.png
 
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
+A tela peremite que o usuário realize o login na sua conta de acordo com o requisito funcional RF-02
 
 
 #### Artefatos da funcionalidade
